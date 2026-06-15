@@ -1,10 +1,8 @@
-<h1 style="background: linear-gradient(90deg, #00c6ff, #0072ff);
-           -webkit-background-clip: text;
-           -webkit-text-fill-color: transparent;">
+<h1 style="color:#00bcd4; font-family: 'Segoe UI', sans-serif;">
   Hi, I am Sanskar
 </h1>
 
-<h3 style="color:#ff4d6d;">
+<h3 style="color:#ff5722; font-style: italic;">
   Java Full Stack Developer
 </h3>
 ---
