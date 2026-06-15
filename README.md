@@ -26,6 +26,10 @@
 ![](https://streak-stats.demolab.com/?user=sanskarmangla005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanskarmangla005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Graph
+
+[![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanskarmangla005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
