@@ -5,10 +5,6 @@
 </p>
 
 
-<div align="center">
-  <img src="./assets/developer.gif" alt="Developer Workspace" width="700"/>
-</div>
-
 ## 🚀 About Me
 
 - 🎓 Student & Aspiring Full Stack Developer
