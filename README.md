@@ -35,6 +35,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/sanskarmangla005/sanskarmangla005/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/sanskarmangla005/sanskarmangla005/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
