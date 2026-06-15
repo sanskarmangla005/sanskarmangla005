@@ -9,8 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-lat
     permissions:
       contents: write
 
