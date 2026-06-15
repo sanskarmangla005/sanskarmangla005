@@ -30,8 +30,10 @@
 
 [![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanskarmangla005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=sanskarmangla005&theme=tokyonight&no-frame=true&no-bg=true)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sanskarmangla005&color=blue)
