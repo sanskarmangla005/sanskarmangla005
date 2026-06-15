@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sanskar</h1>
+<h1 style="background: linear-gradient(90deg, #00c6ff, #0072ff);
+           -webkit-background-clip: text;
+           -webkit-text-fill-color: transparent;">
+  Hi, I am Sanskar
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Developer;DSA+Learner" />
-</p>
-
+<h3 style="color:#ff4d6d;">
+  Java Full Stack Developer
+</h3>
 ---
 
 ## 🚀 About Me
