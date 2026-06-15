@@ -26,7 +26,11 @@
 
 ![](https://streak-stats.demolab.com/?user=sanskarmangla005&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanskarmangla005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskarmangla005&theme=tokyonight" />
+</p>
 
 ## 📈 Contribution Graph
 
