@@ -16,7 +16,7 @@
 - 📫 Connect with me on LinkedIn
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanskarmangla005)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawalsanskar60@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-agrawal-8b64b0322/)
 
 # 💻 Languages and Tools:
