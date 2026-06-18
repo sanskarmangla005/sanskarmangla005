@@ -9,7 +9,6 @@
 - 🎓 Student & Aspiring Full Stack Developer
 - 💻 Building Full Stack Web Applications
 - 🌱 Currently improving my DSA skills
-- 🔥 Passionate about Web Development & Problem Solving
 - 🤝 Open to collaborating on Full Stack Projects
 - 📫 Connect with me on LinkedIn
 
