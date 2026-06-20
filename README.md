@@ -25,9 +25,7 @@
 
 ## 🌐 Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskarmangla005&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight)
 
 ## 📈 Contribution Graph
 
