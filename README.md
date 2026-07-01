@@ -25,6 +25,7 @@
 ![](https://streak-stats.demolab.com/?user=sanskarmangla005&theme=dark&hide_border=false)
 
 ## 🌐 Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=pie&theme=tokyonight" />
 
