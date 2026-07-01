@@ -25,6 +25,9 @@
 ![](https://streak-stats.demolab.com/?user=sanskarmangla005&theme=dark&hide_border=false)
 
 ## 🌐 Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanskarmangla005&theme=tokyonight" alt="Languages Pie Chart"/>
+</p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=pie&theme=tokyonight" />
