@@ -26,7 +26,7 @@
 
 ## 🌐 Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=pie&theme=tokyonight" />
 
 ## 📈 Contribution Graph
 
