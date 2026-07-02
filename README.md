@@ -24,10 +24,12 @@
 
 ![](https://streak-stats.demolab.com/?user=sanskarmangla005&theme=dark&hide_border=false)
 
+
+
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight&langs_count=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ## 📈 Contribution Graph
