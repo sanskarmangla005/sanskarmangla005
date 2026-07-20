@@ -46,3 +46,9 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanskarmangla005/sanskarmangla005/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
