@@ -37,9 +37,6 @@
 [![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
 
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=sanskarmangla005&color=blue)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -48,3 +45,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanskarmangla005/sanskarmangla005/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanskarmangla005&color=blue)
