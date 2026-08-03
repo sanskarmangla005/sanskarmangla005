@@ -32,11 +32,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
+
 ## 📈 Contribution Graph
 
 [![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
