@@ -29,7 +29,7 @@
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/top-langs.svg" />
 </p>
 ## 📈 Contribution Graph
 
