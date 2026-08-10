@@ -29,7 +29,7 @@
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="./profile/top-langs.svg" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 ## 📈 Contribution Graph
 
