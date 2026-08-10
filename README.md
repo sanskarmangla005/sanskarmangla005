@@ -29,9 +29,8 @@
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmangla005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ## 📈 Contribution Graph
 
 [![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
