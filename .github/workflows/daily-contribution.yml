@@ -1,20 +1,32 @@
-
-name: Daily Repository Check
+name: Daily Repository Update
 
 on:
   schedule:
     - cron: "30 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  check:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Repository check
+      - name: Configure Git
         run: |
-          echo "Repository checked successfully!"
-          echo "Date: $(date -u)"
+          git config user.name "sanskarmangla005"
+          git config user.email "agrawalsanskar60@gmail.com"
+
+      - name: Update daily file
+        run: |
+          echo "Repository update: $(date -u)" > daily-update.txt
+
+      - name: Commit and Push
+        run: |
+          git add daily-update.txt
+          git commit -m "Daily repository update" || exit 0
+          git push
