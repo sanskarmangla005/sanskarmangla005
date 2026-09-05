@@ -21,12 +21,12 @@ jobs:
           git config user.name "sanskarmangla005"
           git config user.email "agrawalsanskar60@gmail.com"
 
-      - name: Update daily file
+      - name: Update file
         run: |
-          echo "Repository update: $(date -u)" > daily-update.txt
+          echo "Repository maintenance: $(date -u)" > daily-update.txt
 
-      - name: Commit and Push
+      - name: Commit changes
         run: |
           git add daily-update.txt
-          git commit -m "Daily repository update" || exit 0
+          git commit -m "Update repository maintenance file" || exit 0
           git push
