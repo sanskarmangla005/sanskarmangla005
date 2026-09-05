@@ -1,1 +1,20 @@
 
+name: Daily Repository Check
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Repository check
+        run: |
+          echo "Repository checked successfully!"
+          echo "Date: $(date -u)"
