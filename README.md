@@ -31,8 +31,9 @@
 </p>
 ## 📈 Contribution Graph
 
-[![Sanskar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night)](https://github.com/sanskarmangla005)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarmangla005&theme=tokyo-night&hide_border=true" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🐍 Contribution Snake
